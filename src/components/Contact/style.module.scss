@@ -129,29 +129,29 @@
     
 }
 
-@media (max-width:600px) {
-    .nav{
-        position: absolute;
-        left: -50%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
-    .button{
-        width: 30px;
-        height: 30px;
-    }
-    .no{
-  display: none;
-    }
-    .buttonContainer{
-        position: relative;
-    }
-    .button{
-        position: absolute;
-        left: 50vw;
-        top: -5vw
-    }
+// @media (max-width:600px) {
+//     .nav{
+//         position: absolute;
+//         left: -50%;
+//         display: flex;
+//         flex-direction: column;
+//         align-items: center;
+//         justify-content: center;
+//     }
+//     .button{
+//         width: 30px;
+//         height: 30px;
+//     }
+//     .no{
+//   display: none;
+//     }
+//     .buttonContainer{
+//         position: relative;
+//     }
+//     .button{
+//         position: absolute;
+//         left: 50vw;
+//         top: -5vw
+//     }
     
-}
+// }
