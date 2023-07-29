@@ -58,18 +58,18 @@
         border: 1px solid grey;
     }
 }
-@media (max-width:600px) {
-    .description{
-        padding: 0% 0%;
-    }
-    .body p{
-        max-width: fit-content;
-    }
-    .body{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
+// @media (max-width:600px) {
+//     .description{
+//         padding: 0% 0%;
+//     }
+//     .body p{
+//         max-width: fit-content;
+//     }
+//     .body{
+//         display: flex;
+//         flex-direction: column;
+//         align-items: center;
+//         justify-content: center;
+//     }
 
-}
+// }
